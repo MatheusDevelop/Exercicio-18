@@ -1,0 +1,13 @@
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex18\bin\Debug\netcoreapp3.1\ex18.exe
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex18\bin\Debug\netcoreapp3.1\ex18.deps.json
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex18\bin\Debug\netcoreapp3.1\ex18.runtimeconfig.json
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex18\bin\Debug\netcoreapp3.1\ex18.runtimeconfig.dev.json
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex18\bin\Debug\netcoreapp3.1\ex18.dll
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex18\bin\Debug\netcoreapp3.1\ex18.pdb
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex18\obj\Debug\netcoreapp3.1\ex18.csprojAssemblyReference.cache
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex18\obj\Debug\netcoreapp3.1\ex18.AssemblyInfoInputs.cache
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex18\obj\Debug\netcoreapp3.1\ex18.AssemblyInfo.cs
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex18\obj\Debug\netcoreapp3.1\ex18.csproj.CoreCompileInputs.cache
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex18\obj\Debug\netcoreapp3.1\ex18.dll
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex18\obj\Debug\netcoreapp3.1\ex18.pdb
+C:\Users\willi\Documents\Projetos de desenvolvimento\ex18\obj\Debug\netcoreapp3.1\ex18.genruntimeconfig.cache
